@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\tsp_C.props" />
+</Project>

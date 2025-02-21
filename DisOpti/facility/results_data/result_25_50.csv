@@ -1,0 +1,9 @@
+data_type,source_index,destination_index
+facility_loc,7,
+facility_loc,19,
+facility_loc,12,
+fac_cust_alloc,7,0.0
+fac_cust_alloc,7,4.0
+fac_cust_alloc,19,1.0
+fac_cust_alloc,19,2.0
+fac_cust_alloc,12,3.0

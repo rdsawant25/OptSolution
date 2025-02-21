@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": 
+    [
+        {
+            "name": "C#: tsp_C [Default Configuration]",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\tsp_C\\tsp_C.csproj",
+            "args": ["C:\\Users\\olw05\\Downloads\\DisOpti\\tsp\\data\\tsp_51_1"]
+        }
+    ]
+}
